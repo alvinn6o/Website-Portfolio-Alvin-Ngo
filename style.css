@@ -91,7 +91,7 @@ nav {
 }
 
 a {
-    color: black;
+    color: rgb(106, 157, 206);
     text-decoration: none;
     text-decoration-color: white;
 }
@@ -99,7 +99,7 @@ a {
 a:hover {
     color: grey;
     text-decoration: underline;
-    /* text-underline-offset: 1rem; */
+    text-underline-offset: 1rem;
     text-decoration-color: rgb(111, 0, 255);
 }
 
@@ -339,7 +339,7 @@ section {
 }
 
 .about-title {
-    color: rgb(128, 103, 241);
+    color: rgb(0,0,0);
 }
 
 .about-containers {
